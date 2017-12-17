@@ -3,6 +3,7 @@ All the libraries I find useful.
 
 | Name | Purpose | URLS |
 |:----:|:-------:|:----:|
+| CLIUtils/CLI11 | C++ command line library | https://github.com/CLIUtils/CLI11
 | Chlumsky/msdfgen | Generation of multi-channel signed distance fields for text rendering. | https://github.com/Chlumsky/msdfgen |
 | google/sparsehash | Fast or Memory Efficent Hash Table Implimentation | https://github.com/sparsehash/sparsehash https://github.com/Sirflankalot/custom_sparsehash |
 | libsimdpp | Generic Header Only SIMD libarary | https://github.com/p12tic/libsimdpp |
